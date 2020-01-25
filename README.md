@@ -5,7 +5,7 @@ Node.js・npm 開発環境を docker-compose で構築するサンプル。
 
 ## Author
 
-[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/Neos21))
+[Neo](http://neo.s21.xrea.com/)
 
 
 ## Links
