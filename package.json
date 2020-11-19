@@ -1,7 +1,7 @@
 {
   "name": "practice-docker-compose-nodejs-npm",
-  "version": "1.0.0",
   "description": "Node.js・npm 開発環境を docker-compose で構築するサンプル",
+  "private": true,
   "main": "main.js",
   "scripts": {
     "start": "node main.js",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Neos21/practice-docker-compose-nodejs-npm.git"
   },
-  "author": "Neo <neos21@gmail.com> (http://neo.s21.xrea.com/)",
+  "author": "Neo <neos21@gmail.com> (https://neos21.net/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Neos21/practice-docker-compose-nodejs-npm/issues"
